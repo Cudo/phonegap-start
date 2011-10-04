@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.phonegap.getting.started"
+	id		= "CudoTest"
 	version 	= "1.0.0">
 
 	<name>CudoTest</name>
@@ -16,6 +16,7 @@
 	</author>
 
 	<gap:platforms>
+		<gap:platform name="ios" />
 		<gap:platform name="android" minVersion="2.1" />
 		<gap:platform name="webos" />
 		<gap:platform name="symbian.wrt" />
